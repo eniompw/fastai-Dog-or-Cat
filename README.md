@@ -2,6 +2,7 @@
 
 * [Simplified Cat or Dog Transfer Learning Example](https://github.com/eniompw/fastai-Dog-or-Cat/blob/main/Cat_or_Dog.ipynb)
 * [Cat or Dog Code Walkthrough](https://nbviewer.org/github/fastai/fastbook/blob/master/01_intro.ipynb#How-Our-Image-Recognizer-Works)
+* [Hugging Face Spaces Example](https://huggingface.co/spaces/jph00/testing)
 
 ---
 title: Dog or Cat?
